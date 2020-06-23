@@ -29,7 +29,7 @@ syntax_highlighting: true
 
 skills:
   - name: css3
-   - name: html5
+  - name: html5
   - name: git
   - name: github
   - name: gradle
