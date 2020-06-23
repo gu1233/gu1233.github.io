@@ -1,0 +1,72 @@
+title: 구다은
+name: Your Name
+email: your-email@example.com
+description: 신입 개발자 구다은 포트폴리오입니다.
+
+baseurl: ""
+url: "https://gu1233.github.io"
+
+display_footer: none  #change this to 'none' if you want to hide the footer copyright text
+
+parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/startup3.jpg
+
+project_one: Online Bookstore
+project_one_description: 개발기간 - 2020.01.16 ~ 2020.01.30   로그인, 회원가입, 판매관리, 게시판, 리뷰 등의 기능이 구현된 간단한 온라인 서점입니다.다.   이 중 공지사항 게시판 crud 기능을 맡아 구현하였습니다.
+project_one_url: https://github.com/sungyoonkim930316/TeamBook4.git
+project_one_icon: location_on
+
+project_two: TEAMPLAN
+project_two_description: 개발기간 - 2020.04.20 ~ 2020.05.11  워크스페이스 생성, 프로젝트 및 업무관리, 피드백 등의 기능이 구현된 협업툴입니다.   이 중 로그인, 회원가입 기능을 맡아 구현하였습니다.
+project_two_url: https://github.com/team200330/team.git
+project_two_icon: book
+
+portfolio_heading: Portfolio
+portfolio_type: cards
+
+syntax_highlighting: true
+# Skill icons from https://konpa.github.io/devicon/
+
+skills:
+  - name: css3
+  - name: git
+  - name: github
+  - name: gradle
+  - name: html5
+  - name: java
+  - name: javascript
+  - name: mysql
+  - name: oracle
+  - name: tomcat
+  - name: visualstudio
+  - name: jquery
+
+icon_size: 50 # font-size of icons in px
+colored: colored # Leave blank for black and white icons
+
+project_button: Github
+
+github: https://github.com/gu1233/gu1233.github.io.git
+medium: https://medium.com
+
+baseurl: "" # if your site is located at /blog or /home, enter it here, otherwise leave it empty
+url: "https://gu1233.github.io" #the url of your site
+
+# Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
+tag_manager_id: # This looks something like GTM-XXXXXXX
+google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
+
+cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
+
+cookie_accept_message: Thanks!
+
+syntax_highlighting: true # include the css for syntax highlighting
+
+# Build settings
+markdown: kramdown
+# theme: minima
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-minifier
