@@ -29,23 +29,6 @@ AboutMe_description: test<br>test<br>test
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
-skills:
-  - name: bootstrap
-  - name: css3
-  - name: git
-  - name: github
-  - name: gradle
-  - name: html5
-  - name: java
-  - name: javascript
-  - name: jquery
-  - name: mysql
-  - name: oracle
-  - name: tomcat
-  - name: visualstudio
-
-icon_size: 100 # font-size of icons in px
-colored: colored # Leave blank for black and white icons
 
 project_button: Github
 
