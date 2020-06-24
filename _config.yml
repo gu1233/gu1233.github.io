@@ -28,23 +28,17 @@ syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-  - name: apache
   - name: bootstrap
-  - name: chrome
   - name: css3
   - name: git
   - name: github
-  - name: google
   - name: gradle
   - name: html5
-  - name: itellij
   - name: java
   - name: javascript
   - name: jquery
   - name: mysql
-  - name: nodejs
   - name: oracle
-  - name: safari
   - name: tomcat
   - name: visualstudio
 
