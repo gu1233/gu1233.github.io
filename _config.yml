@@ -24,7 +24,7 @@ project_two_icon: book
 portfolio_heading: Portfolio
 portfolio_type: cards
 
-AboutMe_description: test
+AboutMe_description: test<br>test<br>test
 
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
