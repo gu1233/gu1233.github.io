@@ -2669,7 +2669,7 @@ i.large {
 
 img.responsive-img,
 video.responsive-video {
-  max-width: 180px;
+  max-width: 100px;
   height: auto;
 }
 
