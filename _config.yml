@@ -1,4 +1,4 @@
-title:
+title: Developer
 name: 구다은
 email: gde102@naver.com
 description: 신입 개발자 구다은 포트폴리오입니다.
@@ -28,7 +28,7 @@ syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-   - name: amazonwebservices
+  - name: amazonwebservices
   - name: android
   - name: angularjs
   - name: apache
