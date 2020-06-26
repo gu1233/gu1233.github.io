@@ -24,19 +24,9 @@ project_two_icon: book
 portfolio_heading: Portfolio
 portfolio_type: cards
 
-AboutMe_description: test<br>test<br>test
-
-syntax_highlighting: true
-# Skill icons from https://konpa.github.io/devicon/
-
-
 project_button: Github
 
-
-baseurl: "" # if your site is located at /blog or /home, enter it here, otherwise leave it empty
-url: "https://gu1233.github.io" #the url of your site
-
-
+AboutMe_description: test<br>test<br>test
 
 syntax_highlighting: true # include the css for syntax highlighting
 
