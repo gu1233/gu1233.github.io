@@ -3373,6 +3373,12 @@ nav ul a span.badge {
   width: 90%;
 }
 
+.container2 {
+  margin: 0 auto;
+  max-width: 900px;
+  width: 90%;
+}
+
 @media only screen and (min-width: 601px) {
   .container {
     width: 85%;
